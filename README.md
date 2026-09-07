@@ -15,52 +15,6 @@
 
 
 
-
-
-
-
-## Selected work
-
-<div align="center">
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=mo0412hjv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221215403%3Fu%3D1d4c543c168c709528a37203603e1c3bc2b1d582%26v%3D4" alt="mo0412hjv hero visual" />
-</p>
-
-<h1>Mohamed Tarek</h1>
-<p><b>Freelance developer or consultant</b></p>
-
-</div>
-
-## The idea behind the work
-
-> Motivated Electrical Engineering student specializing in Communications and Electronics with strong experience in 
-volunteering, project management, and digita
-
-- 👥 **0** followers · **0** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Mo0412hjv/Mo0412hjv">Mo0412hjv</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-</table>
-
-## Details worth noticing
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=mo0412hjv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221215403%3Fu%3D1d4c543c168c709528a37203603e1c3bc2b1d582%26v%3D4" alt="mo0412hjv highlights visual" />
-</p>
-
-<p><b>Mohamed Tarek</b> is shipping 1 public projects with 0 stars of proof.</p>
-
-## Creative toolkit
-
-No public language data yet — building the first project in the open.
-
-## Make something memorable
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=mo0412hjv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221215403%3Fu%3D1d4c543c168c709528a37203603e1c3bc2b1d582%26v%3D4" alt="mo0412hjv social visual" />
 </p>
