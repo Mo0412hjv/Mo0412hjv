@@ -11,3 +11,60 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+## Selected work
+
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=mo0412hjv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221215403%3Fu%3D1d4c543c168c709528a37203603e1c3bc2b1d582%26v%3D4" alt="mo0412hjv hero visual" />
+</p>
+
+<h1>Mohamed Tarek</h1>
+<p><b>Freelance developer or consultant</b></p>
+
+</div>
+
+## The idea behind the work
+
+> Motivated Electrical Engineering student specializing in Communications and Electronics with strong experience in 
+volunteering, project management, and digita
+
+- 👥 **0** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Mo0412hjv/Mo0412hjv">Mo0412hjv</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Details worth noticing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=mo0412hjv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221215403%3Fu%3D1d4c543c168c709528a37203603e1c3bc2b1d582%26v%3D4" alt="mo0412hjv highlights visual" />
+</p>
+
+<p><b>Mohamed Tarek</b> is shipping 1 public projects with 0 stars of proof.</p>
+
+## Creative toolkit
+
+No public language data yet — building the first project in the open.
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mo0412hjv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221215403%3Fu%3D1d4c543c168c709528a37203603e1c3bc2b1d582%26v%3D4" alt="mo0412hjv social visual" />
+</p>
+
+<a href="https://github.com/mo0412hjv">GitHub</a>
+
+<p align="center"><sub>Mohamed Tarek · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
